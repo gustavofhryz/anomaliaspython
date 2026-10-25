@@ -18,4 +18,4 @@ O problema central deste projeto reside na extrema raridade de transações frau
 ## 4. Explicabilidade com SHAP
 * A utilização do **SHAP (SHapley Additive exPlanations)** permitiu abrir a "caixa-preta" do modelo XGBoost, evidenciando visualmente quais variáveis (features anonimizadas por PCA e valor da transação) tiveram maior peso e influência na decisão de classificar uma determinada transação como fraude ou legítima.
 
-# detecao-anomalias-python
+# anomalias-python
