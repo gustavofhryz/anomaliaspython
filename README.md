@@ -1,3 +1,6 @@
+<img width="905" height="665" alt="output" src="https://github.com/user-attachments/assets/e7da569e-0e71-4945-a934-6ccd9b206711" />
+
+
 # Projeto: Detecção de Anomalias em Transações de Cartão de Crédito
 
 ## 1. O Problema e o Desafio do Desbalanceamento
